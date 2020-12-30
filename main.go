@@ -7,7 +7,7 @@ package main
 import (
 	"fmt"
 
-	"xorm.io/reverse/cmd"
+	"github.com/lenmx/reverse/cmd"
 
 	_ "github.com/denisenkom/go-mssqldb"
 	_ "github.com/go-sql-driver/mysql"

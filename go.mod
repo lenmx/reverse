@@ -1,4 +1,4 @@
-module xorm.io/reverse
+module github.com/lenmx/reverse
 
 go 1.13
 

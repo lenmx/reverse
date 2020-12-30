@@ -7,15 +7,15 @@ package cmd
 import (
 	"bytes"
 	"errors"
+	"github.com/lenmx/reverse/common"
 	"html/template"
 	"io"
 	"io/ioutil"
 	"os"
 	"path/filepath"
 	"strings"
-	"xorm.io/reverse/common"
 
-	"xorm.io/reverse/language"
+	"github.com/lenmx/reverse/language"
 
 	"gitea.com/lunny/log"
 	"github.com/gobwas/glob"

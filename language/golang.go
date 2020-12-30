@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"sort"
 	"strings"
-	"xorm.io/reverse/common"
+	"github.com/lenmx/reverse/common"
 	"xorm.io/xorm/schemas"
 )
 

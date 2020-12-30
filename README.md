@@ -18,7 +18,7 @@ A flexsible and powerful command line tool to convert database to codes.
 ## Installation
 
 ```
-go get xorm.io/reverse
+go get github.com/lenmx/reverse
 ```
 
 ## Usage
