@@ -37,4 +37,4 @@ targets:
     }
     {{end}}
   template_path: ./template/goxorm.tmpl
-  output_dir: ./entity
+  output_dir: ./models
